@@ -1,5 +1,5 @@
 - A uni student into Data and Analytics.
-- Currently studying a Master's in Statistics, mainly using R.
+- Studying a Master's in Statistics, mainly using R.
 - Learning Python in my free time.
 - Aiming to use this GitHub to get familiar with Git, and share code from uni and personal projects.
 
