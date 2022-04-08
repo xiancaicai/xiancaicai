@@ -1,6 +1,6 @@
 - A uni student into Data Science and Analytics.
 - Studying a Master's in Statistics, mainly using R.
-- Learning Python in my free time.
+- Learning more Python in my free time.
 - Sharing code from uni and personal projects.
 
 <!---
