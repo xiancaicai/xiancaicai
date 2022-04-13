@@ -1,7 +1,7 @@
 - A uni student into Data Science and Analytics.
 - Studying a Master's in Statistics, mainly using R.
 - Learning more Python in my free time.
-- Sharing code from uni and personal projects.
+- Sharing code from uni and personal projects. [Under construction]
 
 <!---
 xiancaicai/xiancaicai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
