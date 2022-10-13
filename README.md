@@ -3,6 +3,7 @@
 - A uni student into Data Science and Analytics.
 - Studying a Master's in Statistics, mainly using R.
 - Working part-time in finance: automating financial analytic work and
+
 building predictive models, using Excel VBA and Python.
 - Learning more Python in my free time.
 - Sharing code from uni and personal projects.
