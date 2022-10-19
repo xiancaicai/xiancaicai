@@ -1,4 +1,4 @@
-[UNDER CONSTRUCTION]
+[UNDER CONSTRUCTION] :sparkles:
 
 - A uni student into Data Science and Analytics.
 - Studying a Master's in Statistics, mainly using R.
