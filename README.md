@@ -1,6 +1,6 @@
 [UNDER CONSTRUCTION] :sparkles:
 
-- A uni student into Data Science, Analytics and Music.
+- A uni student into data.
 - Studying a Master's in Statistics, mainly using R.
 - Working part-time with automating analytic workflows, building predictive models, using Excel VBA and Python.
 - Learning more Python in my free time.
