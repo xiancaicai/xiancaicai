@@ -1,4 +1,4 @@
-[UNDER CONSTRUCTION] :sparkles:
+[UNDER CONSTRUCTION]
 
 :sparkles: MSc Statistics and Data Science student.
 
