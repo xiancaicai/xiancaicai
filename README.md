@@ -1,6 +1,7 @@
 [UNDER CONSTRUCTION] :sparkles:
 
 Full-time MSc Statistics and Data Science student coding in R and Python.
+
 Part-time Data Science intern in the finance industry coding in Excel VBA and Python.
 
 <!---
